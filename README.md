@@ -24,16 +24,14 @@ Frameworks & Tools
 <p> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /> </p>
 AI & Backend
 <p> <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Automation-000000?style=flat-square&logoColor=white" /> </p>
-## // github
+## // contribution graph
 
 <p align="center">
-  <a href="https://github.com/itstahakhann">
-    <img src="https://img.shields.io/github/followers/itstahakhann?style=flat-square&label=Followers&color=000000" />
-  </a>
-  <a href="https://github.com/itstahakhann?tab=repositories">
-    <img src="https://img.shields.io/github/stars/itstahakhann?style=flat-square&label=Stars&color=000000" />
-  </a>
-  <img src="https://img.shields.io/github/last-commit/itstahakhann/itstahakhann?style=flat-square&label=Last%20update&color=000000" />
+  <img
+    src="./assets/contribution-graph.svg"
+    width="100%"
+    alt="GitHub contribution graph"
+  />
 </p>
 // contribution snake
 <p align="center"> <img src="https://raw.githubusercontent.com/itstahakhann/itstahakhann/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" /> </p>
