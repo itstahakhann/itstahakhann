@@ -24,14 +24,17 @@ Frameworks & Tools
 <p> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /> </p>
 AI & Backend
 <p> <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Automation-000000?style=flat-square&logoColor=white" /> </p>
-// contribution graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=itstahakhann&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" /> </p>
-// github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itstahakhann&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="170" alt="GitHub stats" />
+## // github
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstahakhann&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="170" alt="Top languages" />
-
-</p> <p align="center"> <img src="https://streak-stats.demolab.com?user=itstahakhann&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="70%" alt="GitHub streak" /> </p>
+<p align="center">
+  <a href="https://github.com/itstahakhann">
+    <img src="https://img.shields.io/github/followers/itstahakhann?style=flat-square&label=Followers&color=000000" />
+  </a>
+  <a href="https://github.com/itstahakhann?tab=repositories">
+    <img src="https://img.shields.io/github/stars/itstahakhann?style=flat-square&label=Stars&color=000000" />
+  </a>
+  <img src="https://img.shields.io/github/last-commit/itstahakhann/itstahakhann?style=flat-square&label=Last%20update&color=000000" />
+</p>
 // contribution snake
 <p align="center"> <img src="https://raw.githubusercontent.com/itstahakhann/itstahakhann/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" /> </p>
 // activity
