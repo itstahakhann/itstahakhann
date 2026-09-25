@@ -1,13 +1,16 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 <rect width="1200" height="300" rx="16" fill="#0b0b0b" stroke="#222"/>
 <text x="35" y="38" fill="#777" font-family="monospace" font-size="13">LATEST_REPOSITORIES</text>
-<text x="35" y="78" fill="#fff" font-family="monospace" font-size="17">Repository data will be refreshed by GitHub Actions.</text>
-<text x="35" y="112" fill="#666" font-family="monospace" font-size="13">Run the workflow once after pushing this profile.</text>
-<line x1="35" y1="140" x2="1165" y2="140" stroke="#222"/>
-<text x="35" y="178" fill="#aaa" font-family="monospace" font-size="13">01</text>
-<text x="80" y="178" fill="#fff" font-family="monospace" font-size="13">latest public repository</text>
-<text x="35" y="216" fill="#aaa" font-family="monospace" font-size="13">02</text>
-<text x="80" y="216" fill="#fff" font-family="monospace" font-size="13">latest public repository</text>
-<text x="35" y="254" fill="#aaa" font-family="monospace" font-size="13">03</text>
-<text x="80" y="254" fill="#fff" font-family="monospace" font-size="13">latest public repository</text>
+<text x="35" y="82" fill="#555" font-family="monospace" font-size="12">01</text>
+<text x="75" y="82" fill="#fff" font-family="monospace" font-size="14">itstahakhann</text>
+<text x="300" y="82" fill="#777" font-family="monospace" font-size="12">No description</text>
+<text x="1030" y="82" fill="#aaa" font-family="monospace" font-size="12">Python</text>
+<text x="35" y="150" fill="#555" font-family="monospace" font-size="12">02</text>
+<text x="75" y="150" fill="#fff" font-family="monospace" font-size="14">Vault-X</text>
+<text x="300" y="150" fill="#777" font-family="monospace" font-size="12">Local-first password manager for the web and desktop. React + TypeScript + </text>
+<text x="1030" y="150" fill="#aaa" font-family="monospace" font-size="12">TypeScript</text>
+<text x="35" y="218" fill="#555" font-family="monospace" font-size="12">03</text>
+<text x="75" y="218" fill="#fff" font-family="monospace" font-size="14">Spendwise</text>
+<text x="300" y="218" fill="#777" font-family="monospace" font-size="12">The expense tracker that respects your privacy. 100% offline, no accounts, </text>
+<text x="1030" y="218" fill="#aaa" font-family="monospace" font-size="12">TypeScript</text>
 </svg>
