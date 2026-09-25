@@ -33,6 +33,15 @@ AI & Backend
     alt="GitHub contribution graph"
   />
 </p>
+## // github stats
+
+<p align="center">
+  <img
+    src="./assets/github-stats.svg"
+    width="100%"
+    alt="GitHub statistics"
+  />
+</p>
 // contribution snake
 <p align="center"> <img src="https://raw.githubusercontent.com/itstahakhann/itstahakhann/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" /> </p>
 // activity
