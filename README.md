@@ -24,6 +24,15 @@ Frameworks & Tools
 <p> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /> </p>
 AI & Backend
 <p> <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Automation-000000?style=flat-square&logoColor=white" /> </p>
+## // latest repositories
+
+<p align="center">
+  <img
+    src="./assets/latest-repositories.svg"
+    width="100%"
+    alt="Latest repositories"
+  />
+</p>
 ## // contribution graph
 
 <p align="center">
