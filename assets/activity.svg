@@ -1,0 +1,12 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="190" rx="16" fill="#0b0b0b" stroke="#222"/>
+<text x="35" y="38" fill="#777" font-family="monospace" font-size="13">ACTIVITY / DEV MODE</text>
+<text x="35" y="72" fill="#fff" font-family="monospace" font-size="17">● ONLINE</text>
+<text x="180" y="72" fill="#888" font-family="monospace" font-size="15">building AI products</text>
+<line x1="35" y1="92" x2="1165" y2="92" stroke="#222"/>
+<text x="35" y="124" fill="#aaa" font-family="monospace" font-size="14">NOW</text>
+<text x="90" y="124" fill="#fff" font-family="monospace" font-size="14">Study Pilot AI</text>
+<text x="35" y="153" fill="#aaa" font-family="monospace" font-size="14">MODE</text>
+<text x="90" y="153" fill="#fff" font-family="monospace" font-size="14">AI-assisted development</text>
+<text x="35" y="177" fill="#555" font-family="monospace" font-size="12">github.com/itstahakhann</text>
+</svg>

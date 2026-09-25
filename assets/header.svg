@@ -1,0 +1,30 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="fade" x1="0" x2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="22" fill="#080808"/>
+<g opacity=".16" stroke="#fff">
+  <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+  <path d="M60 0V300M120 0V300M180 0V300M240 0V300M300 0V300M360 0V300M420 0V300M480 0V300M540 0V300M600 0V300M660 0V300M720 0V300M780 0V300M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300"/>
+</g>
+<circle cx="1050" cy="70" r="70" fill="none" stroke="#fff" stroke-opacity=".12"/>
+<circle cx="1050" cy="70" r="42" fill="none" stroke="#fff" stroke-opacity=".16"/>
+<circle cx="1050" cy="70" r="3" fill="#fff" filter="url(#glow)">
+  <animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="70" y="108" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">TAHA KHAN</text>
+<text x="73" y="150" fill="#aaa" font-family="monospace" font-size="20">AI DEVELOPER • AUTOMATION • FULL STACK</text>
+<rect x="73" y="182" width="330" height="2" fill="url(#fade)">
+  <animate attributeName="x" values="73;410;73" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<text x="73" y="220" fill="#777" font-family="monospace" font-size="15">turning ideas into useful software</text>
+<text x="73" y="250" fill="#555" font-family="monospace" font-size="13">STATUS: BUILDING</text>
+<circle cx="172" cy="246" r="4" fill="#fff">
+  <animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/>
+</circle>
+</svg>
