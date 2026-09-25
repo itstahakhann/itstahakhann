@@ -162,21 +162,19 @@ Expense-tracking product focused on simple personal finance workflows.
 
 ---
 
-## `// stats`
+## // stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=itstahakhann&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" alt="GitHub stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstahakhann&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa" alt="Top languages">
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itstahakhann&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstahakhann&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="170" />
+</p>
 ---
 
-## `// contribution graph`
+## // contribution graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itstahakhann&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itstahakhann&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</p>
 
 ---
 
