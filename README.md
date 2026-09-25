@@ -24,35 +24,6 @@ Frameworks & Tools
 <p> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /> </p>
 AI & Backend
 <p> <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Automation-000000?style=flat-square&logoColor=white" /> </p>
-// projects
-Study Pilot AI
-
-AI-powered study assistant for learning from your own notes and documents.
-
-Input → AI/RAG → Grounded answer → Sources
-
-Upload notes, textbooks and documents
-Document processing and text extraction
-RAG-based question answering
-AI tutor experience
-Source-grounded responses
-Supabase backend
-AI API integration
-
-Stack: React • JavaScript • Supabase • AI APIs • RAG
-VaultX
-
-Local-first password and credential manager concept.
-
-Credentials → Encryption → Local Vault
-
-Encrypted local storage
-Credential organization
-Password management
-Vault-based architecture
-Privacy-focused design
-
-Stack: JavaScript • Web APIs • Encryption
 // contribution graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=itstahakhann&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" /> </p>
 // github stats
